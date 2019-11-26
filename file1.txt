@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 line1
 file content changed under future_branch1
+=======
+Hii I have added some lines to this line 
+
+
+changed the file under hotflix branch
+>>>>>>> hotfix_branch
+
+changed the file
